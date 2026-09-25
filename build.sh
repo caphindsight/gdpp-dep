@@ -20,3 +20,4 @@ build_index() {
 
 build_index data/bind index/bind
 build_index data/spec index/spec
+build_index data/engine index/engine
